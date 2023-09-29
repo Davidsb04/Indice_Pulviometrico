@@ -4,7 +4,5 @@ Este código lê o índice pluviométrico de cada dia de um mês especificado pe
 
 # Como Usar
 
-1. **Requisitos**: Certifique-se de ter a linguagem de programação [insira a linguagem aqui] instalada em seu ambiente de desenvolvimento.
-
-2. **Clone o Repositório**: Clone este repositório para o seu ambiente local.
+1. **Clone o Repositório**: Clone este repositório para o seu ambiente local.
 
